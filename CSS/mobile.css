@@ -1,0 +1,47 @@
+#navbar .logo{
+ float: none;
+ text-align: center;
+}
+#navbar ul, #navbar ul li{
+ float: none;
+}
+#navbar ul li a{
+ padding: 5px;
+ border-bottom: #444 dotted 1px;
+}
+/* Home-info*/
+#home-info .info-content{
+ float: none;
+ width: 100%;
+}
+/* boxes */
+.box{
+ float: none;
+ width: 100%;
+}
+/* about */
+#about-info .info-right,
+#about-info .info-left{
+ float: none;
+  width: 100%;
+}
+#about-info .info-right{
+ margin-top: 30px;
+}
+#about-info .info-right img{
+ width: 60%;
+}
+.l-heading{
+ text-align: center;
+}
+
+/* contact */
+.contact_form-input{
+ width: 100%;
+}
+form .input-box input{
+ width: 100%;
+}
+.input-box-button input{
+ width: 100%;
+}
